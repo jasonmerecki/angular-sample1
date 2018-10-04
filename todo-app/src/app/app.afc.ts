@@ -1,5 +1,9 @@
 import {Component} from '@angular/core';
 
+// this component is probably not used. The author was just
+// tooling around with some angualr syntax.
+// these are not the 'droids you are looking for, move along.
+
 @Component({
   selector: 'example-formstuff',
   template: `
